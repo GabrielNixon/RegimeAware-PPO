@@ -1,3 +1,7 @@
+![NeurIPS](https://img.shields.io/badge/NeurIPS%202025-Workshop-blue)
+![Award](https://img.shields.io/badge/Best%20Paper%20Runner--Up-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 # Financial Analysis Repository
 
 This repository contains a comprehensive financial analysis of asset returns, portfolio optimization, and risk assessment, using historical financial data primarily sourced from "Finance Portfolio 2.csv," provided by Professor Aswath Damodaran of New York University (NYU).
