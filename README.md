@@ -1,3 +1,8 @@
+![NeurIPS](https://img.shields.io/badge/NeurIPS%202025-Workshop-blue)
+![Award](https://img.shields.io/badge/Best%20Paper%20Runner--Up-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
 # RegimeAware-PPO
 
 Official implementation of **“Stress-Aware Scenario Generation for Reliable Portfolio Inference under Regime Shifts”**,  
@@ -9,11 +14,6 @@ presented at the **NeurIPS 2025 Workshop on Generative AI in Finance**.
 
 ### Citation
 If you use this work, please cite:
-
-
-![NeurIPS](https://img.shields.io/badge/NeurIPS%202025-Workshop-blue)
-![Award](https://img.shields.io/badge/Best%20Paper%20Runner--Up-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 # Financial Analysis Repository
 
