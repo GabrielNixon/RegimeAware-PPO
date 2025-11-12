@@ -12,9 +12,6 @@ presented at the **NeurIPS 2025 Workshop on Generative AI in Finance**.
 📅 **Date:** December 2025  
 📍 **Venue:** NeurIPS 2025, San Diego
 
-### Citation
-If you use this work, please cite:
-
 # Financial Analysis Repository
 
 This repository contains a comprehensive financial analysis of asset returns, portfolio optimization, and risk assessment, using historical financial data primarily sourced from "Finance Portfolio 2.csv," provided by Professor Aswath Damodaran of New York University (NYU).
