@@ -14,31 +14,27 @@ presented at the **NeurIPS 2025 Workshop on Generative AI in Finance**.
 
 ## 📌 Citation
 
-If you use this work, please cite the following:
+If you use this work, please cite:
 
-### Primary paper (NeurIPS 2025 Workshop)
+### Stress-Aware Portfolio Inference (NeurIPS 2025 Workshop)
+```bibtex
 @inproceedings{nixon2025stressaware,
   title={Stress-Aware Scenario Generation for Reliable Portfolio Inference under Regime Shifts},
-  author={Gabriel Nixon},
+  author={Nixon, Gabriel},
   booktitle={NeurIPS 2025 Workshop on Generative AI in Finance},
   year={2025}
 }
+```
 
 ### (arXiv)
+```bibtex
 @article{nixon2025adaptive,
   title={Adaptive and Regime-Aware RL for Portfolio Optimization},
   author={Gabriel Nixon Raj},
   journal={arXiv preprint arXiv:2509.14385},
   year={2025}
 }
-
-### Code repository
-@misc{nixon2025repo,
-  title={RegimeAware-PPO},
-  author={Gabriel Nixon Raj},
-  year={2025},
-  url={https://github.com/GabrielNixon/RegimeAware-PPO}
-}
+```
 
 # Financial Analysis Repository
 
