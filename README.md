@@ -12,6 +12,34 @@ presented at the **NeurIPS 2025 Workshop on Generative AI in Finance**.
 📅 **Date:** December 2025  
 📍 **Venue:** NeurIPS 2025, San Diego
 
+## 📌 Citation
+
+If you use this work, please cite the following:
+
+### Primary paper (NeurIPS 2025 Workshop)
+@inproceedings{nixon2025stressaware,
+  title={Stress-Aware Scenario Generation for Reliable Portfolio Inference under Regime Shifts},
+  author={Gabriel Nixon},
+  booktitle={NeurIPS 2025 Workshop on Generative AI in Finance},
+  year={2025}
+}
+
+### (arXiv)
+@article{nixon2025adaptive,
+  title={Adaptive and Regime-Aware RL for Portfolio Optimization},
+  author={Gabriel Nixon Raj},
+  journal={arXiv preprint arXiv:2509.14385},
+  year={2025}
+}
+
+### Code repository
+@misc{nixon2025repo,
+  title={RegimeAware-PPO},
+  author={Gabriel Nixon Raj},
+  year={2025},
+  url={https://github.com/GabrielNixon/RegimeAware-PPO}
+}
+
 # Financial Analysis Repository
 
 This repository contains a comprehensive financial analysis of asset returns, portfolio optimization, and risk assessment, using historical financial data primarily sourced from "Finance Portfolio 2.csv," provided by Professor Aswath Damodaran of New York University (NYU).
